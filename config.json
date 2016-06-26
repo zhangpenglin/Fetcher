@@ -1,0 +1,12 @@
+{
+  "messageQuery": {
+    "uri": "http://www.baidu.com/sendnotify.cgi",
+    "qs": {
+      "msg": "hello",
+      "receiver": "123"
+    }
+  },
+  "timeout": 5,
+  "stopHour":11,
+  "startHour":8
+}
