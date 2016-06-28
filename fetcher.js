@@ -4,7 +4,6 @@ const cheerio = require('cheerio');
 const Promise = require('bluebird');
 const request = Promise.promisify(require('request'));
 const fs = require("fs");
-
 class Fetcher {
     constructor(params) {
         this.params = params
@@ -45,7 +44,7 @@ class Fetcher {
             setTimeout(this.fetchData.bind(this), timeout * 60 * 1000)
         } else {
             console.log(config.timeout + '分钟后将进行下次抓取')
-            setTimeout(this.fetchData.bind(this), config.timeout * 60 * 1000)
+            setTimeout(this.fetchData.bind(this), 20 * 1000)
         }
     }
 

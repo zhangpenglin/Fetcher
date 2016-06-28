@@ -1,9 +1,9 @@
 {
   "messageQuery": {
-    "uri": "http://www.baidu.com/sendnotify.cgi",
+    "uri": "http://127.0.0.1:8012/sendnotify.cgi",
     "qs": {
       "msg": "hello",
-      "receiver": "123"
+      "receiver": "zhangxuehui"
     }
   },
   "timeout": 5,

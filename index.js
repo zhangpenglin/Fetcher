@@ -104,3 +104,5 @@ function getbidding() {
     fetcher.fetchData()
 }
 getbidding()
+getccgp()
+gethebgc()
