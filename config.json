@@ -1,10 +1,12 @@
 {
   "messageQuery": {
-    "uri": "http://127.0.0.1:8012/sendnotify.cgi",
     "qs": {
       "msg": "hello",
       "receiver": "zhangxuehui"
-    }
+    },
+    "useQueryString":true,
+    "proxy":"http://127.0.0.1:8888"
+
   },
   "timeout": 5,
   "stopHour":11,

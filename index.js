@@ -6,11 +6,13 @@ const fs = require("fs");
 
 
 function gethebgc() {
+    const taskName='hebgc'
     const preUrl = 'http://www.hebgc.com/hebgc2009/index.php'
     const url = preUrl + '?a=eng-anc-list&cat_bid1=Z04&region=&title=&p=';
     const reqs = [request(url + '1'), request(url + '2')]
     const filePath = './3.json'
     const fetcher = new Fetcher({
+        taskName,
         preUrl,
         reqs,
         filePath,
@@ -34,11 +36,13 @@ function gethebgc() {
     fetcher.fetchData()
 }
 function getccgp() {
+    const taskName='ccgp'
     const preUrl = 'http://ccgp-hebei.gov.cn'
     const url = preUrl + '/zfcg/web/getBidingList_';
     const reqs = [request(url + '1.html'), request(url + '2.html')]
     const filePath = './2.json'
     const fetcher = new Fetcher({
+        taskName,
         preUrl,
         reqs,
         filePath,
@@ -62,6 +66,7 @@ function getccgp() {
     fetcher.fetchData()
 }
 function getbidding() {
+    const taskName="hebeibidding"
     const preUrl = 'http://hebeibidding.com.cn/'
     const url = preUrl + '/tender/more.aspx'
 
@@ -80,6 +85,7 @@ function getbidding() {
             })]
     const filePath = './1.json'
     const fetcher = new Fetcher({
+        taskName,
         preUrl,
         reqs,
         filePath,
