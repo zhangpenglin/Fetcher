@@ -1,14 +1,13 @@
 {
   "messageQuery": {
+  "uri":"http://127.0.0.1:8012/sendnotify.cgi",
     "qs": {
-      "msg": "hello",
-      "receiver": "zhangxuehui"
-    },
-    "useQueryString":true,
-    "proxy":"http://127.0.0.1:8888"
-
+      "msg": "New article found! ",
+      "receiver": "wanggang,jinheng,changdezhi,gaotengye"
+    }
   },
-  "timeout": 5,
-  "stopHour":11,
+  "serverPort":"http://192.168.139.243:3333",
+  "timeout": 2,
+  "stopHour":19,
   "startHour":8
 }

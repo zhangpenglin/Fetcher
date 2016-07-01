@@ -1,0 +1,32 @@
+{
+  "name": "fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "anywhere": "^1.4.0",
+    "iconv-lite": "^0.4.13",
+    "babel": "^6.5.2",
+    "bluebird": "^3.4.1",
+    "cheerio": "^0.20.0",
+    "edge": "^5.0.0",
+    "request": "^2.72.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fetch":"node index",
+    "serve":"anywhere 3333",
+    "start":"npm run fetch & npm run serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangpenglin/Fetcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangpenglin/Fetcher/issues"
+  },
+  "homepage": "https://github.com/zhangpenglin/Fetcher#readme"
+}

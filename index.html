@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>新消息提醒</title>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: #f1f1f1;
+
+        }
+
+        div#container {
+            width: 100%
+        }
+
+        div#container dl {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            width: 100%;
+        }
+
+        div#container dd {
+            width: 100%;
+            margin: 10px 0;
+        }
+
+        div#container dd a {
+            display: block;
+            padding: 20px;
+            background-color: #fff;
+            color: #333333;
+            text-decoration: none;
+        }
+
+        div#container dd a:hover {
+            background-color: #0773be;
+            color: #fff;
+        }
+    </style>
+    <script src="jquery.js"></script>
+    <script>
+
+        $(function () {
+            var $container = $("#container");
+            var $dl = $("#container dl");
+            var now = (new Date()).getTime()
+            $.getJSON('newData.json?ver=' + now, function (data) {
+                var arr=[]
+                for(var i=0;i<data.length;i++){
+                    arr.push(renderDl(data[i].data,data[i].name))
+                }
+
+                $dl.html(arr.join(""))
+            })
+        })
+        function renderDl(data,name) {
+            var arr = []
+            arr.push("<dt>"+name+"</dt>")
+            for (var i = 0; i < data.length; i++) {
+                var li = '<dd><a href=' + data[i].url + ' target="_blank">' + data[i].title + '</a></dd>'
+                arr.push(li)
+            }
+            return arr.join("")
+        }
+
+    </script>
+
+</head>
+<body>
+<div id="container">
+    <dl>
+
+    </dl>
+</div>
+</body>
+</html>

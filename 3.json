@@ -1,5 +1,105 @@
 [
     {
+        "title": "赞皇县集中供热项目（城区东部）勘察设计",
+        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=381121",
+        "id": "381121"
+    },
+    {
+        "title": "北五里铺旧城改造项目设计招标",
+        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=381010",
+        "id": "381010"
+    },
+    {
+        "title": "深州市恒信路[大广连接线拓宽改造提升（顺达大街-西外环段）]工程勘察设计",
+        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=381115",
+        "id": "381115"
+    },
+    {
+        "title": "文安县新镇西洋町小学建设工程等12所学校设计",
+        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=381120",
+        "id": "381120"
+    },
+    {
+        "title": "石家庄海山实业发展总公司工矿棚户区改造项目（二期工程）施工图设计",
+        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=381124",
+        "id": "381124"
+    },
+    {
+        "title": "文安县大柳河镇常久村中心校建设工程等13所学校设计",
+        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=381129",
+        "id": "381129"
+    },
+    {
+        "title": "南八一环岛改造工程设计",
+        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=381046",
+        "id": "381046"
+    },
+    {
+        "title": "健康城生物产业孵化器项目工程设计",
+        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=381015",
+        "id": "381015"
+    },
+    {
+        "title": "石济客专改扩建四座地道桥（下穿石德铁路）工程项目施工图审查",
+        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380850",
+        "id": "380850"
+    },
+    {
+        "title": "石济客专石家庄东站广场及地下空间工程施工图审查",
+        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380852",
+        "id": "380852"
+    },
+    {
+        "title": "南二环东延（东二环-东三环）和南二环西延（西二环-南水北调桥）工程施工图审查",
+        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380853",
+        "id": "380853"
+    },
+    {
+        "title": "邯铁家园一期项目设计招标",
+        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380918",
+        "id": "380918"
+    },
+    {
+        "title": "（无效公告）北五里铺旧城改造项目设计招标",
+        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380908",
+        "id": "380908"
+    },
+    {
+        "title": "滦县横山景区建设项目游廊景亭工程施工图设计招标",
+        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380862",
+        "id": "380862"
+    },
+    {
+        "title": "玉井南路南段（工兴路-滨河北路）新建工程设计招标",
+        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380901",
+        "id": "380901"
+    },
+    {
+        "title": "秦皇岛开发区地下综合管廊建设项目设计",
+        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380845",
+        "id": "380845"
+    },
+    {
+        "title": "秦皇岛市公安局交通警察支队车辆管理业务中心外幕墙设计二次",
+        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380851",
+        "id": "380851"
+    },
+    {
+        "title": "沽源县黄盖淖镇易地扶贫搬迁安置区工程设计",
+        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380915",
+        "id": "380915"
+    },
+    {
+        "title": "沽源县九连城镇易地扶贫搬迁半拉山安置区工程设计",
+        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380916",
+        "id": "380916"
+    },
+    {
+        "title": "广宗县文体综合中心建设工程设计",
+        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380923",
+        "id": "380923"
+    },
+    {
         "title": "（无效公告）昆仑大街及天山大街跨环城水系桥梁工程设计.",
         "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380732",
         "id": "380732"
@@ -33,6 +133,11 @@
         "title": "石家庄市不动产登记中心档案建设工程设计二次",
         "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380817",
         "id": "380817"
+    },
+    {
+        "title": "故城县马庄、沙岗片区概念性规划编制项目(二次公告)",
+        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380849",
+        "id": "380849"
     },
     {
         "title": "高新区巨力大街（北二环—北三环）道路雨污水路灯便道工程 工业大街（北二环—北三环）路灯工程设计招标（二次）",
@@ -93,110 +198,5 @@
         "title": "任县医院病房楼建设项目设计",
         "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380321",
         "id": "380321"
-    },
-    {
-        "title": "任县中医院迁建工程项目设计",
-        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380431",
-        "id": "380431"
-    },
-    {
-        "title": "南石家庄棚改项目配套路青城街（东垣东路-绵河道）道路工程和十里铺棚改项目配套道路工程荷园路（金明街-青城街）、金水街（东垣东路-延沱路）设计",
-        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380320",
-        "id": "380320"
-    },
-    {
-        "title": "开发区跨高速路桥梁工程设计（三次公告）",
-        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380226",
-        "id": "380226"
-    },
-    {
-        "title": "石家庄市特教学校操场及景观绿化工程设计",
-        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380229",
-        "id": "380229"
-    },
-    {
-        "title": "2016年度保定国家高新技术产业开发区发展有限公司国有投资工程建设项目绿化设计企业入围公开招标公告",
-        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380308",
-        "id": "380308"
-    },
-    {
-        "title": "围场县职业技术教育中心学生公寓楼项目设计（二次招标）",
-        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380309",
-        "id": "380309"
-    },
-    {
-        "title": "宽城县2016年保障性安居工程配套道路及管网项目设计",
-        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380312",
-        "id": "380312"
-    },
-    {
-        "title": "（无效公告）任县医院病房楼建设项目设计",
-        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380318",
-        "id": "380318"
-    },
-    {
-        "title": "汉沽管理区幸福环路新建工程设计招标",
-        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380240",
-        "id": "380240"
-    },
-    {
-        "title": "柏乡县中兴路东延工程项目勘察及设计",
-        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380243",
-        "id": "380243"
-    },
-    {
-        "title": "中英(下花园)智慧环境产业园产业化基地项目控规深化及城市设计二次招标",
-        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380295",
-        "id": "380295"
-    },
-    {
-        "title": "涿州市2016年美丽乡村建设高铁沿线村庄规划、设计及片区内重点项目施工设计",
-        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380123",
-        "id": "380123"
-    },
-    {
-        "title": "平泉县绥远大街瀑河大桥及引桥工程设计招标（二次）",
-        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380208",
-        "id": "380208"
-    },
-    {
-        "title": "定州市职工服务中心建设项目设计",
-        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380209",
-        "id": "380209"
-    },
-    {
-        "title": "平泉县绥远大街瀑河大桥及引桥工程勘察招标（二次）",
-        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380210",
-        "id": "380210"
-    },
-    {
-        "title": "正定县南部城墙与周汉河之间排水工程设计",
-        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380225",
-        "id": "380225"
-    },
-    {
-        "title": "曹妃甸中小企业园区十里海东路工程勘察、设计",
-        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380213",
-        "id": "380213"
-    },
-    {
-        "title": "曹妃甸化学产业园区南区消防通道工程勘察、设计",
-        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380215",
-        "id": "380215"
-    },
-    {
-        "title": "新建怀来县沙城镇第六小学项目施工图设计",
-        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380232",
-        "id": "380232"
-    },
-    {
-        "title": "临漳县城西垃圾填埋场及乡镇转运站项目设计-",
-        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=380125",
-        "id": "380125"
-    },
-    {
-        "title": "京汉君庭住宅小区三期6#住宅楼项目设计",
-        "url": "http://www.hebgc.com/hebgc2009/index.php?a=eng-anc-detail&xh=379948",
-        "id": "379948"
     }
 ]
